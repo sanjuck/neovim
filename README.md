@@ -1,6 +1,6 @@
 # Back To VIM
 
-```mermait
+```mermaid
 graph LR
     V(vi,vim)
         .-> E(Eclipse + VIM Plugin)
