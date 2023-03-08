@@ -33,7 +33,33 @@ Buffer을 알고 나서는 그것조차 거의 사용을 하지 않았네요.
 * **나 만의 커스텀 에디터가 가능합니다.** \
   (단축키, Plugin, 개발환경, 실행환경등 거의 개인 Editor입니다.)
 
-  ...
+### IDE 환경 구성 (with LSP)
 
+#### File Manager
 
+#### Outline
 
+#### Embedded Terminal
+
+#### Highlight + Code Auto Complete
+
+#### Editing (Motion, Fast Move, Selection)
+
+#### RUN
+
+### terminal plugin 개발 (LUA)
+
+다른 많은 terminal plugin이 있지만, 그래도 가장 만족한것은 vscode 스타일 terminal이라서 만들기로 하였습니다.
+
+#### vsterm 개발하기
+
+### 기타 각종 이벤트 처리로 완벽한 환경 만들기
+
+## 시작하시는 분들께
+
+다른 IDE의 경우는 환경설정만 하시면 사용하실 수 있습니다. 즉 데이타값만 변경하시면 됩니다.
+하지만 vi의 경우 환경설정을 위한 또 다른 개발이 필요 합니다. vimscript 또는 lua
+
+다른 환경에 비해 러닝커브가 좀 있으리라 생각이 되지만,
+그 만족도는 높은 편입니다. 최근에는 이러한 환경도 기본으로 잡아주는 서비스도 있습니다.
+또 개발자로써의 자존감도 높아지는 것 같습니다. (뽐내기 ^^)
